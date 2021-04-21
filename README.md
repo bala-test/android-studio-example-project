@@ -29,7 +29,7 @@ from [Maven Central](http://search.maven.org/) or [BinTray](https://bintray.com/
 The downloaded dependencies will be available automatically as part of the project.
 
 Jar file dependencies can also be included. The configuration for this project
-looks inside `app/libs` for `*.jar` files and includes them for all build types.
+looks inside `app/libs` for `*.jar` files and includes them for all build types..
 
 
 *Example Dependency Declarations:*
