@@ -3,7 +3,7 @@ apply plugin: "sonar-runner"
 
 sonarRunner {
     sonarProperties {
-        property "sonar.host.url", "http://localhost:9000"
+        property "sonar.host.url", "http://52.186.138.134:9000"
         property "sonar.analysis.mode", "incremental"
         property 'sonar.sourceEncoding', 'UTF-8'
         property 'sonar.language', 'java'
